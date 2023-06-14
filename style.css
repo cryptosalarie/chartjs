@@ -1,0 +1,9 @@
+body {
+   /* display: flex; */
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.chart-container {
+    width: 50%;
+    margin: 20px;
+}
